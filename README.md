@@ -1,6 +1,6 @@
 Example of my work..
 
-https://www.consucredito.com/ - Php, Js, Html, Css, MySQL\n
+https://www.consucredito.com/ - Php, Js, Html, Css, MySQL\
 100% built from scratch, also have an admin section
 
 https://astararetail.cl/ - Php, Js, Html, Css, MySQL\n
