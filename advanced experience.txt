@@ -1,3 +1,6 @@
+All this experiences are without filter, i talk in generally about all that i learned by myself and without any type of help more than internet and test/error.
+at 2021 when I started there was no chat gpt or something similar.. and stackoverflow didnt have any question answered about web3, so i was mostly test/error and a lot of money lost to learn :)..
+
 Python
 Coded trading bots using python based on passivbot repository, added multiple functions that this doesnt have, like the ability to apply a new type of grid based on Martingala concepts..
 Also added take profit, stop loss, trailing stop, and the possibility to detect pivots and reset a trailing stop.. as part of a strategy..
