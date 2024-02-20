@@ -1,3 +1,4 @@
+<p style="text-align:center">
 All this experiences are without filter, i talk in generally about all that i learned by myself and without any type of help more than internet and test/error.
 at 2021 when I started there was no chat gpt or something similar.. and stackoverflow didnt have any question answered about web3, so i was mostly test/error and a lot of money lost to learn :)..
 
@@ -43,4 +44,4 @@ Ubuntu
 I learned a lot of ubuntu to make my node server very safe!, there was a lot of attackers trying to take down my server, ofc a good hosting was necessary too that pre apply a firewall.. but anyways i ended up learning about firewalls, security, drives.. recovery of files (because once the server got corrupted system), etc..
 Obviously for other experiences i deployed web systems like apache or nginx, but this level of security and speed required for nodes was different.
 
-
+</p>
